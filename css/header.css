@@ -1,0 +1,20 @@
+:root {
+    --primary: #1a1a2e;
+    --secondary: #16213e;
+    --accent: #0f3460;
+    --light: #8c3ecc;
+    --dark: #1a1a2e;
+    --gray: #533483;
+}
+
+.logo {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    margin-right: 1rem;
+}
+
+.logo span {
+    color: var(--light);
+}
